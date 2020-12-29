@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: b98f2d3dd39a8e44f9d4f3ff876d134c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cortinarius1Main5
+    100002: grass:glass1:grass_short01
+    100004: grass:glass1:long_grass
+    100006: grass:glass1:long_grass001
+    100008: group10
+    100010: group11
+    100012: group3
+    100014: group8
+    100016: hoshinokakera:hoshinokakera:star_polySurface1
+    100018: micaCap1Flower2
+    100020: polySurface2543
+    100022: polySurface2543 1
+    100024: polySurface2743
+    100026: polySurface2743 1
+    100028: polySurface2744
+    100030: //RootNode
+    100032: wood_saku
+    100034: Woodbrighe
+    400000: cortinarius1Main5
+    400002: grass:glass1:grass_short01
+    400004: grass:glass1:long_grass
+    400006: grass:glass1:long_grass001
+    400008: group10
+    400010: group11
+    400012: group3
+    400014: group8
+    400016: hoshinokakera:hoshinokakera:star_polySurface1
+    400018: micaCap1Flower2
+    400020: polySurface2543
+    400022: polySurface2543 1
+    400024: polySurface2743
+    400026: polySurface2743 1
+    400028: polySurface2744
+    400030: //RootNode
+    400032: wood_saku
+    400034: Woodbrighe
+    2100000: hoshinokakera_star_initialShadingGroup1
+    2100002: lambert1
+    2300000: cortinarius1Main5
+    2300002: grass:glass1:grass_short01
+    2300004: grass:glass1:long_grass
+    2300006: grass:glass1:long_grass001
+    2300008: group10
+    2300010: hoshinokakera:hoshinokakera:star_polySurface1
+    2300012: micaCap1Flower2
+    2300014: polySurface2543
+    2300016: polySurface2543 1
+    2300018: polySurface2743
+    2300020: polySurface2743 1
+    2300022: polySurface2744
+    2300024: wood_saku
+    2300026: Woodbrighe
+    3300000: cortinarius1Main5
+    3300002: grass:glass1:grass_short01
+    3300004: grass:glass1:long_grass
+    3300006: grass:glass1:long_grass001
+    3300008: group10
+    3300010: hoshinokakera:hoshinokakera:star_polySurface1
+    3300012: micaCap1Flower2
+    3300014: polySurface2543
+    3300016: polySurface2543 1
+    3300018: polySurface2743
+    3300020: polySurface2743 1
+    3300022: polySurface2744
+    3300024: wood_saku
+    3300026: Woodbrighe
+    4300000: hoshinokakera:hoshinokakera:star_polySurface1
+    4300002: wood_saku
+    4300004: grass:glass1:long_grass
+    4300006: grass:glass1:long_grass001
+    4300008: grass:glass1:grass_short01
+    4300010: micaCap1Flower2
+    4300012: cortinarius1Main5
+    4300014: group10
+    4300016: polySurface2744
+    4300018: polySurface2743
+    4300020: polySurface2543
+    4300022: polySurface2743
+    4300024: polySurface2543
+    4300026: Woodbrighe
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 40
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
